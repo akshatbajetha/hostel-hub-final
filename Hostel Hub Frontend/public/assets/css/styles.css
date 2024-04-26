@@ -1,0 +1,24 @@
+#hero{
+    background-image: url("../assets/Bennett.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    height: 100vh;
+    padding-top: 150px;
+    
+}
+.nav-bar{
+    min-width: 100vw;
+    background-color: white;
+    position: fixed;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+#logo{
+    margin-left: 50px;
+}
+
+.active{
+    background-color: #007bff;
+}

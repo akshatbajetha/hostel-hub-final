@@ -1,0 +1,89 @@
+.home {
+    text-align: center;
+    margin: 50px auto;
+  }
+  
+  .home h1 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+  }
+  
+  .dropdowns {
+    margin-bottom: 20px;
+  }
+  
+  .dropdowns select {
+    padding: 8px;
+    margin: 0 10px;
+    font-size: 14px;
+  }
+  
+  .dropdowns button {
+    padding: 8px 16px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 14px;
+  }
+  
+  .available-rooms {
+    margin-top: 50px;
+  }
+  
+  .hostel-card {
+    width: 300px;
+    background-color: #f8f9fa;
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+    margin: 10px auto;
+    padding: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .hostel-card h3 {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+  }
+  
+  .hostel-card p {
+    margin-bottom: 5px;
+  }
+  
+  .hostel-card hr {
+    margin: 10px 0;
+  }
+  
+  .booking-form {
+    margin-top: 50px;
+  }
+  
+  .booking-form h2 {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+  }
+  
+  .booking-form input {
+    width: calc(100% - 22px);
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+    font-size: 14px;
+  }
+  
+  .booking-form button {
+    width: calc(100% - 22px);
+    padding: 8px 16px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+  }
+  
+  .booking-form button:hover {
+    background-color: #0056b3;
+  }
+  
